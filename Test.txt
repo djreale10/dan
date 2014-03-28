@@ -1,0 +1,6 @@
+var today = new Date()
+var d1 = new Date("October 13, 1975 11:13:00")
+var d2 = new Date(79,5,24)
+var d3 = new Date(79,5,24,11,33,0)
+
+alert d3;
